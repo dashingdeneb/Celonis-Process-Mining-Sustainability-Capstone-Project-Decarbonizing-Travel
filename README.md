@@ -1,7 +1,8 @@
 
-# **<u>Summer Analytics 2026 - Celonis Process Mining Capstone Project</u>**
+# **<u>Celonis Process Mining Capstone Project</u>**
 
-**Sustainability** **Project:** **Decarbonizing** **Travel**
+## **Summer Analytics 2026 Sustainability** **Project:** **Decarbonizing** **Travel**
+**(Consulting & Analytics Club, IIT Guwahati)**
 
 *The* *following* *information* *and* *associated* *data* *are*
 *fictional* *and* *purely* *for* *educational* *purposes.* *This*
