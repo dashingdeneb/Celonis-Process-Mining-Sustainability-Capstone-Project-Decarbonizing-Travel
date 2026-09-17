@@ -1,7 +1,5 @@
-<img src="./v3dbux1p.png"
-style="width:1.71875in;height:0.94792in" />
 
-**<u>Summer Analytics 2026 - Capstone Project</u>**
+# **<u>Summer Analytics 2026 - Celonis Process Mining Capstone Project</u>**
 
 **Sustainability** **Project:** **Decarbonizing** **Travel**
 
@@ -68,8 +66,7 @@ integrate carbon
 efficiency into the heart of our travel operations. We are looking to
 evolve our processes by:
 
-<img src="./jlozsvkb.png"
-style="width:1.71875in;height:0.94792in" />
+
 
 > ● **Integrating** **Carbon** **Metrics:** Incorporating emission data
 > directly into the booking and
@@ -137,8 +134,7 @@ areas:
 >
 > potential for impactful reduction?
 
-<img src="./vqx5speq.png"
-style="width:1.71875in;height:0.94792in" />
+
 
 > 3\. **Low-Carbon** **Alternatives**: Which travel routes and modes of
 > transport (e.g., switching
@@ -209,8 +205,7 @@ the Top 10 selection.
 >
 > policies and what value will it generate in three years
 
-<img src="./5ophqwqr.png"
-style="width:1.71875in;height:0.94792in" />
+
 
 **Final** **Presentation**
 
@@ -279,8 +274,7 @@ be followed by a **5**
 > insights, top 3 recommendations, and the projected impact. This will
 > be used for initial
 
-<img src="./ujolgrnc.png"
-style="width:1.71875in;height:0.94792in" />
+
 
 > shortlisting. Also include your view on why decarbonizing travel is
 > critical to Celonis'
@@ -342,8 +336,7 @@ will be aggregated to produce a final ranking for Top 10 selection.
 
 > development
 
-<img src="./jsdnucg0.png"
-style="width:1.71875in;height:0.94792in" />
+
 
 > Productization
 >
@@ -406,8 +399,7 @@ Before submitting, confirm you or your team has included:
 >
 > ● A "Results at a Glance" slide in the presentation
 
-<img src="./alj1henm.png"
-style="width:1.71875in;height:0.94792in" />
+
 
 > ● Quantified recommendations (e.g., "Switching Route X to rail saves Y
 > kg CO₂ and \$Z per
